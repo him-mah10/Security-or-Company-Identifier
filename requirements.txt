@@ -1,0 +1,5 @@
+python-csv==0.0.10
+spacy==2.2.4
+requests==2.23.0
+beautifulsoup4==4.6.3
+cleanco==2.0.1
