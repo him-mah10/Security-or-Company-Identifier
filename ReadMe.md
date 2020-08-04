@@ -1,7 +1,7 @@
 # Author - Himanshu Maheshwari
 
 ## Objective:
-Given a set of news data and the objective is to perform NER on the data to derive a particular security for which the article is. These news articles may refer to one or more companies. The goal is to find out the primary company which the article is referring to. 
+Given a set of news data and the objective is to perform NER on the data to derive a particular security for which the article is. These news articles may refer to one or more companies. The goal is to find out the primary/secondary company which the article is referring to and output it's ticker symbol. 
 
 ### Rules to identify primary company:
  1. If an article title contain company name or security name that takes precedence over others
