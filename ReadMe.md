@@ -1,4 +1,4 @@
-# Name - Himanshu Maheshwari
+# Author - Himanshu Maheshwari
 
 ## Objective:
 Given a set of news data and the objective is to perform NER on the data to derive a particular security for which the article is. These news articles may refer to one or more companies. The goal is to find out the primary company which the article is referring to. 
